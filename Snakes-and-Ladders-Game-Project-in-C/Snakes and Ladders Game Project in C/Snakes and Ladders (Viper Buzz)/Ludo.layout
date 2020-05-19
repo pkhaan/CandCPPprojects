@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="intotal.c" open="1" top="0" tabpos="1">
+		<Cursor position="11043" topLine="367" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="3">
+		<Cursor position="45" topLine="0" />
+	</File>
+	<File name="savegame.c" open="1" top="1" tabpos="2">
+		<Cursor position="60" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

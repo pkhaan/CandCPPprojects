@@ -1,0 +1,1042 @@
+# depslib dependency file v1.0
+1279612279 source:e:\data\rajendra\allegro\tank_ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro\tank_ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279613981 e:\data\rajendra\allegro\tank_ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro\tank_ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\tank_ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:e:\data\rajendra\allegro\tank_ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279613960 source:e:\data\rajendra\allegro\tank_ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro\tank_ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro\tankai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro\tankai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279678155 e:\data\rajendra\allegro\tankai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro\tankai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\tankai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279639687 source:e:\data\rajendra\allegro\tankai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279649851 source:e:\data\rajendra\allegro\tankai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro\tankai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:f:\tankai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 f:\tankai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279626943 f:\tankai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 f:\tankai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 f:\tankai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:f:\tankai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1272461342 source:f:\tankai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279627112 source:f:\tankai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279612279 source:c:\users\chudamani\desktop\tankai2 v.2.2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 c:\users\chudamani\desktop\tankai2 v.2.2\initializer.h
+	<vector>
+	"classes.h"
+
+1279699735 c:\users\chudamani\desktop\tankai2 v.2.2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279697974 c:\users\chudamani\desktop\tankai2 v.2.2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 c:\users\chudamani\desktop\tankai2 v.2.2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279639687 source:c:\users\chudamani\desktop\tankai2 v.2.2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279700125 source:c:\users\chudamani\desktop\tankai2 v.2.2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:c:\users\chudamani\desktop\tankai2 v.2.2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro\tankai2 v.2.2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro\tankai2 v.2.2\initializer.h
+	<vector>
+	"classes.h"
+
+1279766454 e:\data\rajendra\allegro\tankai2 v.2.2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279757470 e:\data\rajendra\allegro\tankai2 v.2.2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\tankai2 v.2.2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279757148 source:e:\data\rajendra\allegro\tankai2 v.2.2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro\tankai2 v.2.2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279766454 source:e:\data\rajendra\allegro\tankai2 v.2.2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279797227 source:e:\data\rajendra\allegro\tankai2 v.2.4\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279797237 e:\data\rajendra\allegro\tankai2 v.2.4\initializer.h
+	<vector>
+	"classes.h"
+
+1279801277 e:\data\rajendra\allegro\tankai2 v.2.4\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279757470 e:\data\rajendra\allegro\tankai2 v.2.4\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\tankai2 v.2.4\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279757148 source:e:\data\rajendra\allegro\tankai2 v.2.4\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279799085 source:e:\data\rajendra\allegro\tankai2 v.2.4\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279797190 source:e:\data\rajendra\allegro\tankai2 v.2.4\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279804100 source:e:\data\rajendra\allegro\tankai2 sketch\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279844134 e:\data\rajendra\allegro\tankai2 sketch\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279757470 e:\data\rajendra\allegro\tankai2 sketch\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279844085 source:e:\data\rajendra\allegro\tankai2 sketch\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279797190 source:e:\data\rajendra\allegro\tankai2 sketch\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279804152 e:\data\rajendra\allegro\tankai2 sketch\initializer.h
+	<vector>
+	"classes.h"
+
+1279807607 source:e:\data\rajendra\allegro\tankai2 sketch\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279597428 e:\data\rajendra\allegro\tankai2 sketch\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 e:\data\rajendra\allegro\tankai2 sketch\info.h
+	"classes.h"
+
+1279813314 source:e:\data\rajendra\allegro\tankai2 sketch\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:e:\data\rajendra\allegro\tankai v2.5 sketchy version\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279804152 e:\data\rajendra\allegro\tankai v2.5 sketchy version\initializer.h
+	<vector>
+	"classes.h"
+
+1279856961 e:\data\rajendra\allegro\tankai v2.5 sketchy version\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279855059 e:\data\rajendra\allegro\tankai v2.5 sketchy version\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279854697 source:e:\data\rajendra\allegro\tankai v2.5 sketchy version\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279597428 e:\data\rajendra\allegro\tankai v2.5 sketchy version\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 e:\data\rajendra\allegro\tankai v2.5 sketchy version\info.h
+	"classes.h"
+
+1279855071 source:e:\data\rajendra\allegro\tankai v2.5 sketchy version\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279844085 source:e:\data\rajendra\allegro\tankai v2.5 sketchy version\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279856349 source:e:\data\rajendra\allegro\tankai v2.5 sketchy version\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:f:\tankai v2.5 sketchy version\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279862878 f:\tankai v2.5 sketchy version\initializer.h
+	<vector>
+	"classes.h"
+
+1279857118 f:\tankai v2.5 sketchy version\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279855059 f:\tankai v2.5 sketchy version\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279854697 source:f:\tankai v2.5 sketchy version\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279597428 f:\tankai v2.5 sketchy version\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 f:\tankai v2.5 sketchy version\info.h
+	"classes.h"
+
+1279855071 source:f:\tankai v2.5 sketchy version\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279844085 source:f:\tankai v2.5 sketchy version\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279856349 source:f:\tankai v2.5 sketchy version\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:e:\tankai v2.5 sketchy version\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863446 e:\tankai v2.5 sketchy version\initializer.h
+	<vector>
+	"classes.h"
+
+1279863863 e:\tankai v2.5 sketchy version\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279855059 e:\tankai v2.5 sketchy version\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279854697 source:e:\tankai v2.5 sketchy version\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279597428 e:\tankai v2.5 sketchy version\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 e:\tankai v2.5 sketchy version\info.h
+	"classes.h"
+
+1279855071 source:e:\tankai v2.5 sketchy version\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279844085 source:e:\tankai v2.5 sketchy version\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279863595 source:e:\tankai v2.5 sketchy version\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:c:\users\others\desktop\tankai v2.5 sketchy version\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863446 c:\users\others\desktop\tankai v2.5 sketchy version\initializer.h
+	<vector>
+	"classes.h"
+
+1279880126 c:\users\others\desktop\tankai v2.5 sketchy version\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279855059 c:\users\others\desktop\tankai v2.5 sketchy version\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279869633 source:c:\users\others\desktop\tankai v2.5 sketchy version\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279871485 c:\users\others\desktop\tankai v2.5 sketchy version\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 c:\users\others\desktop\tankai v2.5 sketchy version\info.h
+	"classes.h"
+
+1279855071 source:c:\users\others\desktop\tankai v2.5 sketchy version\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279879755 source:c:\users\others\desktop\tankai v2.5 sketchy version\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279863595 source:c:\users\others\desktop\tankai v2.5 sketchy version\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:c:\users\others\desktop\tankai\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863446 c:\users\others\desktop\tankai\initializer.h
+	<vector>
+	"classes.h"
+
+1279880126 c:\users\others\desktop\tankai\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279855059 c:\users\others\desktop\tankai\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279869633 source:c:\users\others\desktop\tankai\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279871485 c:\users\others\desktop\tankai\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 c:\users\others\desktop\tankai\info.h
+	"classes.h"
+
+1279855071 source:c:\users\others\desktop\tankai\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279879755 source:c:\users\others\desktop\tankai\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279863595 source:c:\users\others\desktop\tankai\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797190 source:c:\tankai\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863446 c:\tankai\initializer.h
+	<vector>
+	"classes.h"
+
+1279884831 c:\tankai\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279881247 c:\tankai\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279869633 source:c:\tankai\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279871485 c:\tankai\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806457 c:\tankai\info.h
+	"classes.h"
+
+1279881253 source:c:\tankai\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279883116 source:c:\tankai\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1279863595 source:c:\tankai\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279797192 source:e:\data\rajendra\allegro\tankai v2.6 (sketchy)\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863448 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\initializer.h
+	<vector>
+	"classes.h"
+
+1279969578 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279960235 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279967222 source:e:\data\rajendra\allegro\tankai v2.6 (sketchy)\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1279934245 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279806458 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\info.h
+	"classes.h"
+
+1279968934 source:e:\data\rajendra\allegro\tankai v2.6 (sketchy)\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279863596 source:e:\data\rajendra\allegro\tankai v2.6 (sketchy)\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1279969692 source:e:\data\rajendra\allegro\tankai v2.6 (sketchy)\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+	"powers.h"
+
+1279968225 e:\data\rajendra\allegro\tankai v2.6 (sketchy)\powers.h
+	"classes.h"
+	"tank.h"
+
+1279797192 source:e:\data\rajendra\allegro\tankai v2.8\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863448 e:\data\rajendra\allegro\tankai v2.8\initializer.h
+	<vector>
+	"classes.h"
+
+1279969578 e:\data\rajendra\allegro\tankai v2.8\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279960235 e:\data\rajendra\allegro\tankai v2.8\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1279968934 source:e:\data\rajendra\allegro\tankai v2.8\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279969692 source:e:\data\rajendra\allegro\tankai v2.8\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+	"powers.h"
+
+1279968225 e:\data\rajendra\allegro\tankai v2.8\powers.h
+	"classes.h"
+	"tank.h"
+
+1279934245 e:\data\rajendra\allegro\tankai v2.8\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279863596 source:e:\data\rajendra\allegro\tankai v2.8\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1280021750 source:e:\data\rajendra\allegro\tankai v2.8\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1280021596 e:\data\rajendra\allegro\tankai v2.8\info.h
+	"classes.h"
+
+1279797192 source:e:\data\rajendra\allegro\tankai v2.10\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863448 e:\data\rajendra\allegro\tankai v2.10\initializer.h
+	<vector>
+	"classes.h"
+
+1280027419 e:\data\rajendra\allegro\tankai v2.10\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1280028736 e:\data\rajendra\allegro\tankai v2.10\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1280028660 source:e:\data\rajendra\allegro\tankai v2.10\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1280028315 source:e:\data\rajendra\allegro\tankai v2.10\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+	"powers.h"
+
+1280028712 e:\data\rajendra\allegro\tankai v2.10\powers.h
+	"classes.h"
+	"tank.h"
+
+1279934245 e:\data\rajendra\allegro\tankai v2.10\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1280027897 source:e:\data\rajendra\allegro\tankai v2.10\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1280028880 source:e:\data\rajendra\allegro\tankai v2.10\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1280021596 e:\data\rajendra\allegro\tankai v2.10\info.h
+	"classes.h"
+
+1279797192 source:e:\tankai v2.10\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863448 e:\tankai v2.10\initializer.h
+	<vector>
+	"classes.h"
+
+1280040908 e:\tankai v2.10\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1280028736 e:\tankai v2.10\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1280028660 source:e:\tankai v2.10\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1280040700 source:e:\tankai v2.10\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+	"powers.h"
+
+1280037978 e:\tankai v2.10\powers.h
+	"classes.h"
+	"tank.h"
+
+1279934245 e:\tankai v2.10\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1280027897 source:e:\tankai v2.10\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1280040951 source:e:\tankai v2.10\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1280021596 e:\tankai v2.10\info.h
+	"classes.h"
+
+1279797192 source:f:\itank source\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279863448 f:\itank source\initializer.h
+	<vector>
+	"classes.h"
+
+1280040908 f:\itank source\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1280028736 f:\itank source\map.h
+	<allegro.h>
+	<vector>
+	<sstream>
+	<iostream>
+	"classes.h"
+
+1280028660 source:f:\itank source\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1280040700 source:f:\itank source\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+	"powers.h"
+
+1280037978 f:\itank source\powers.h
+	"classes.h"
+	"tank.h"
+
+1279934245 f:\itank source\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1280027897 source:f:\itank source\info.cpp
+	"classes.h"
+	"tank.h"
+	"initializer.h"
+	"map.h"
+
+1280048499 source:f:\itank source\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	<fstream>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+	"info.h"
+
+1280021596 f:\itank source\info.h
+	"classes.h"
+

@@ -1,0 +1,196 @@
+# depslib dependency file v1.0
+1203606051 source:g:\footprints\project\ludo\ludo.c
+	<stdio.h>
+	<ctype.h>
+
+1203609035 source:g:\footprints\project\ludo\welcomescreen.c
+
+1203609372 source:g:\footprints\project\ludo\headerfiles.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1203639841 source:g:\footprints\project\ludo\dice.c
+
+1203659193 source:g:\footprints\project\ludo\dice(for_loop).c
+
+1203659193 source:g:\footprints\project\ludo\board.c
+
+1203609395 source:g:\footprints\collage\project\ludo\dice(for_loop).c
+
+1203613996 source:g:\footprints\collage\project\ludo\dice.c
+
+1203609395 source:g:\footprints\collage\project\ludo\headerfiles.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+
+1203792089 source:g:\footprints\collage\project\ludo\board.c
+	<windows.h>
+
+1203607856 source:g:\footprints\collage\project\ludo\test.c
+	<windows.h>
+
+1203609395 source:g:\footprints\collage\project\ludo\main.c
+
+1203881789 source:g:\footprints\collage\project\ludo\untitled1.c
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+
+1203735036 source:g:\footprints\collage\project\ludo\player'sdata.c
+	<stdio.h>
+
+1203604468 source:f:\project\colors.c
+	<stdio.h>
+	<windows.h>
+
+1203689725 source:g:\footprints\collage\project\ludo\snakes.c
+	<stdio.h>
+
+1203882410 source:g:\footprints\collage\project\ludo\goto.c
+	<windows.h>
+
+1203739365 source:g:\footprints\collage\project\ludo\draw.c
+
+1203793098 source:g:\footprints\collage\project\ludo\locatesnakesandladders.c
+	<windows.h>
+
+1203609395 source:g:\footprints\collage\project\ludo\password.c
+	<stdio.h>
+
+1203611131 source:g:\footprints\collage\project\ludo\first screen.c
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1203690911 source:g:\footprints\collage\project\ludo\tutorial.c
+	<stdio.h>
+
+1203581730 source:g:\footprints\collage\project\ludo\savegame.c
+	<windows.h>
+	<windows.h>
+	<windows.h>
+	<Mmsystem.h>
+
+1203609755 source:g:\footprints\collage\project\ludo\drawboxes.c
+	<stdio.h>
+
+1203583817 source:g:\footprints\collage\project\ludo\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203598563 source:g:\footprints\collage\project\ludo\resource.rc
+
+1203549064 source:i:\ludo\resource.rc
+
+1203535298 source:i:\ludo\savegame.c
+	<windows.h>
+	<windows.h>
+	<windows.h>
+	<Mmsystem.h>
+
+1302162838 source:i:\ludo\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203598564 source:h:\ludo\resource.rc
+
+1302484170 source:h:\ludo\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302487608 source:h:\ludo\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203539876 source:f:\ludo\savegame.c
+	<windows.h>
+	<windows.h>
+	<windows.h>
+	<Mmsystem.h>
+
+1203542024 source:f:\ludo\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203549064 source:f:\ludo\resource.rc
+
+1203549064 source:e:\ludo\resource.rc
+
+1302346024 source:e:\ludo\savegame.c
+	<windows.h>
+	<windows.h>
+	<windows.h>
+	<Mmsystem.h>
+	<windows.h>
+
+1302348044 source:e:\ludo\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203549064 source:f:\viper buzz\resource.rc
+
+1302438270 source:f:\viper buzz\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302508302 source:f:\viper buzz\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1203598564 source:c:\documents and settings\administrator\desktop\pendrivew\viper buzz\resource.rc
+
+1302484170 source:c:\documents and settings\administrator\desktop\pendrivew\viper buzz\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302554202 source:c:\documents and settings\administrator\desktop\pendrivew\viper buzz\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1302484170 source:d:\footprints\collage\projects\my projects\viper buzz\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302554202 source:d:\footprints\collage\projects\my projects\viper buzz\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1302484170 source:g:\project\my projects\viper buzz\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302554202 source:g:\project\my projects\viper buzz\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+
+1302487770 source:e:\comproj\c projects\viper buzz\savegame.c
+	<windows.h>
+	<Mmsystem.h>
+
+1302557802 source:e:\comproj\c projects\viper buzz\intotal.c
+	<stdio.h>
+	<dos.h>
+	<windows.h>
+	<string.h>
+

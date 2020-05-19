@@ -1,0 +1,14 @@
+#ignore the autosave or backup files by gedit and emacs
+*~
+*#
+*.o
+*.exe
+*.out
+*.html
+log.txt
+*nfs*
+output/
+obj/
+bin/
+
+

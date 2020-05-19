@@ -1,0 +1,39 @@
+			*****************************
+			*      "THE VIPER BUZZ"     *
+			*****************************
+
+
+This is a Simple Game "THE VIPER BUZZ" Based on the Classical Game 'Snake and the Ladder' Played Between two Players.This is Based on the Ludo Game.
+
+			*********************
+			*    HOW TO PLAY    *
+			*********************
+
+The Rule of this Game is Just Simple.
+Firstly you have to Choose your Player ie. Player 1 or Player 2 and you can press any key to and stop the dice.The Player First reaching number 100 Clearing the Obstacles of Snakes and Ladders will win the race of THE VIPER BUZZ.
+To Begin the race Players firstly have to Obtain the number 1 or 6. These numbers will only start the race.
+To End the Game Players have to Aquire the Exact Number or else Player's Position won't Change.
+Vipers will Decrease your Position and Snakes will Increase your position
+Also You can Hit the player by Obtaining the Same Position as your opponent Currently has.Incase you Hit your Opponent his/her position goes to position 1.
+
+		     	o0o0o0o0o0o0o0o0o0
+	                0   COLOR CODE   O
+		     	o0o0o0o0o0o0o0o0o0
+
+                    	RED==DANGER/SNAKE
+	              GREEN==HELPFUL/LADDER
+                   YELLOW==PLAYER'S INDICATION
+
+
+			#################
+			# SHORTCUT KEYS #
+			#################
+	
+	While in the game.....
+	Escape key-----escapes the game
+
+
+	While in the Main Menu....
+	Escape key-----escapes the game
+	Ctrl+s	  -----saves the game
+	Ctrl+w---------Exit Without Message

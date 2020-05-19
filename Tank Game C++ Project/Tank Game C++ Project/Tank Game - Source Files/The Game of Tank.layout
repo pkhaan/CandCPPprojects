@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="classes.h" open="1" top="0" tabpos="5">
+		<Cursor position="17101" topLine="421" />
+	</File>
+	<File name="initializer.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="67" topLine="0" />
+	</File>
+	<File name="initializer.h" open="1" top="0" tabpos="7">
+		<Cursor position="189" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="289" topLine="11" />
+	</File>
+	<File name="map.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="3112" topLine="90" />
+	</File>
+	<File name="map.h" open="1" top="0" tabpos="3">
+		<Cursor position="324" topLine="5" />
+	</File>
+	<File name="tank.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="4661" topLine="147" />
+	</File>
+	<File name="tank.h" open="1" top="1" tabpos="8">
+		<Cursor position="177" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

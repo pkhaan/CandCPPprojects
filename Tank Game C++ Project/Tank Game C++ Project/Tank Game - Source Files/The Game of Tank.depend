@@ -1,0 +1,545 @@
+# depslib dependency file v1.0
+1272330627 source:c:\users\rajendra\documents\the game of tank\main.cpp
+	<allegro.h>
+	"map.h"
+	"initializer.h"
+
+1272330748 c:\users\rajendra\documents\the game of tank\map.h
+	"classes.h"
+
+1272330789 c:\users\rajendra\documents\the game of tank\classes.h
+
+1272329859 c:\users\rajendra\documents\the game of tank\initializer.h
+
+1272330041 source:c:\users\rajendra\documents\the game of tank\initializer.cpp
+	<allegro.h>
+
+1272461341 source:g:\rajendra\c++\the game of tank\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1272850266 source:g:\rajendra\c++\the game of tank\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452149 g:\rajendra\c++\the game of tank\initializer.h
+	<vector>
+	"classes.h"
+
+1272457688 source:g:\rajendra\c++\the game of tank\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1272457674 g:\rajendra\c++\the game of tank\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1272858140 g:\rajendra\c++\the game of tank\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+
+1272853362 g:\rajendra\c++\the game of tank\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1272857858 source:g:\rajendra\c++\the game of tank\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1273718891 source:e:\data\rajendra\allegro project\the game of tank\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452149 e:\data\rajendra\allegro project\the game of tank\initializer.h
+	<vector>
+	"classes.h"
+
+1273715372 e:\data\rajendra\allegro project\the game of tank\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718421 e:\data\rajendra\allegro project\the game of tank\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+
+1273714944 source:e:\data\rajendra\allegro project\the game of tank\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1273719777 source:e:\data\rajendra\allegro project\the game of tank\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1273718891 e:\data\rajendra\allegro project\the game of tank\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1272461341 source:e:\data\rajendra\allegro project\the game of tank\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1273718891 source:e:\data\rajendra\allegro project\the game of tank with fool ai\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452149 e:\data\rajendra\allegro project\the game of tank with fool ai\initializer.h
+	<vector>
+	"classes.h"
+
+1273756406 e:\data\rajendra\allegro project\the game of tank with fool ai\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1273715372 e:\data\rajendra\allegro project\the game of tank with fool ai\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718891 e:\data\rajendra\allegro project\the game of tank with fool ai\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1273714944 source:e:\data\rajendra\allegro project\the game of tank with fool ai\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1273756969 source:e:\data\rajendra\allegro project\the game of tank with fool ai\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1272461341 source:e:\data\rajendra\allegro project\the game of tank with fool ai\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1273718892 source:i:\the game of tank with fool ai\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452150 i:\the game of tank with fool ai\initializer.h
+	<vector>
+	"classes.h"
+
+1273756408 i:\the game of tank with fool ai\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1273715374 i:\the game of tank with fool ai\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718892 i:\the game of tank with fool ai\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1273714946 source:i:\the game of tank with fool ai\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1273757020 source:i:\the game of tank with fool ai\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1272461342 source:i:\the game of tank with fool ai\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1273718892 source:d:\users\user\desktop\the game of tank with fool ai\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452150 d:\users\user\desktop\the game of tank with fool ai\initializer.h
+	<vector>
+	"classes.h"
+
+1273799500 d:\users\user\desktop\the game of tank with fool ai\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1273715374 d:\users\user\desktop\the game of tank with fool ai\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718892 d:\users\user\desktop\the game of tank with fool ai\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1273714946 source:d:\users\user\desktop\the game of tank with fool ai\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1273799799 source:d:\users\user\desktop\the game of tank with fool ai\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1272461342 source:d:\users\user\desktop\the game of tank with fool ai\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1273718892 source:g:\the game of tank with fool ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1272452150 g:\the game of tank with fool ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1273799502 g:\the game of tank with fool ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1273715374 g:\the game of tank with fool ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718892 g:\the game of tank with fool ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1273714946 source:g:\the game of tank with fool ai2\map.cpp
+	"map.h"
+	<sstream>
+	<vector.h>
+	"classes.h"
+
+1273799800 source:g:\the game of tank with fool ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"map.h"
+	"classes.h"
+	"tank.h"
+
+1272461342 source:g:\the game of tank with fool ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279451743 source:c:\users\user\desktop\re (2)\the game of tank with fool ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 c:\users\user\desktop\re (2)\the game of tank with fool ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279450184 c:\users\user\desktop\re (2)\the game of tank with fool ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<cmath>
+
+1279450686 c:\users\user\desktop\re (2)\the game of tank with fool ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1273718892 c:\users\user\desktop\re (2)\the game of tank with fool ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279451789 source:c:\users\user\desktop\re (2)\the game of tank with fool ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279450634 source:c:\users\user\desktop\re (2)\the game of tank with fool ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:c:\users\user\desktop\re (2)\the game of tank with fool ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro project\the game of tank with fool ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro project\the game of tank with fool ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279611892 e:\data\rajendra\allegro project\the game of tank with fool ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro project\the game of tank with fool ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro project\the game of tank with fool ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:e:\data\rajendra\allegro project\the game of tank with fool ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279612314 source:e:\data\rajendra\allegro project\the game of tank with fool ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro project\the game of tank with fool ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro_project\the game of tank with fool ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro_project\the game of tank with fool ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279611892 e:\data\rajendra\allegro_project\the game of tank with fool ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro_project\the game of tank with fool ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro_project\the game of tank with fool ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:e:\data\rajendra\allegro_project\the game of tank with fool ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279612314 source:e:\data\rajendra\allegro_project\the game of tank with fool ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro_project\the game of tank with fool ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro\the game of tank with fool ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro\the game of tank with fool ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279613981 e:\data\rajendra\allegro\the game of tank with fool ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro\the game of tank with fool ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\the game of tank with fool ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:e:\data\rajendra\allegro\the game of tank with fool ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279613960 source:e:\data\rajendra\allegro\the game of tank with fool ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro\the game of tank with fool ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
+1279612279 source:e:\data\rajendra\allegro\tank_ai2\main.cpp
+	<allegro.h>
+	<iostream>
+	<vector>
+	"initializer.h"
+	"map.h"
+	"tank.h"
+	"classes.h"
+
+1279450095 e:\data\rajendra\allegro\tank_ai2\initializer.h
+	<vector>
+	"classes.h"
+
+1279613981 e:\data\rajendra\allegro\tank_ai2\classes.h
+	<allegro.h>
+	<sstream>
+	<iostream>
+	<stack>
+	<cmath>
+	"map.h"
+
+1279558296 e:\data\rajendra\allegro\tank_ai2\map.h
+	<allegro.h>
+	<vector>
+	<iostream>
+	"classes.h"
+
+1279597428 e:\data\rajendra\allegro\tank_ai2\tank.h
+	"classes.h"
+	<allegro.h>
+	<vector>
+	"map.h"
+
+1279543162 source:e:\data\rajendra\allegro\tank_ai2\map.cpp
+	<sstream>
+	<vector.h>
+	"classes.h"
+	"map.h"
+
+1279613960 source:e:\data\rajendra\allegro\tank_ai2\tank.cpp
+	<allegro.h>
+	<vector>
+	"classes.h"
+	"map.h"
+
+1272461342 source:e:\data\rajendra\allegro\tank_ai2\initializer.cpp
+	<allegro.h>
+	"initializer.h"
+
